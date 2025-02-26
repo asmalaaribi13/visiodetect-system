@@ -1,4 +1,5 @@
-# 🧑‍💻 **Identity Verification with Computer Vision** 🧑‍💻
+# 👩‍💻 **Identity Verification with Computer Vision** 👩‍💻
+
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/identity-verification-cv)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
