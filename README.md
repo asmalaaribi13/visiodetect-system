@@ -71,10 +71,3 @@ Before you begin, ensure you have the following installed:
 - 🐍 **face-recognition** library
 - 💻 **Flask / FastAPI** for backend (optional)
 
-### Step 1: Clone the Repository
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/identity-verification-cv.git
-cd identity-verification-cv
